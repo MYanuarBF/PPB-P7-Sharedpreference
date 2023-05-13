@@ -16,7 +16,6 @@
         android:textSize="36sp"
         android:textColor="@color/black"
         android:textAlignment="center"
-
         />
 
     <TextView
@@ -29,8 +28,6 @@
         android:textColor="@color/black"
         android:textStyle="bold"
         android:textAlignment="center"
-
-
         />
 
     <TextView
@@ -44,8 +41,6 @@
         android:textColor="@color/black"
         android:textStyle="bold"
         android:textAlignment="center"
-
-
         />
 
     <com.google.android.material.button.MaterialButton
@@ -59,7 +54,6 @@
         android:layout_marginEnd="10dp"
         android:layout_below="@id/txtPassword"
         android:layout_marginTop="70dp"
-
         />
 
 </RelativeLayout>
